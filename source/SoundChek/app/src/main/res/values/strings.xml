@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sound Check</string>
+    <string name="status_press_play">
+        Please follow the steps below to check your age:\n
+        1. From your computer open http://www.szynalski.com/tone-generator/ (or any website that can generate different tone frequencies).\n
+        2. Drag the slider on the above webpage to 20 Hz.\n
+        3. Press \'play\' on the above webpage to hear the sound frequency.\n
+        4. When ready, press \'play\' on the button below to begin checking your age.
+    </string>
+    <string name="play_button">Play</string>
+    <string name="status_test_ongoing">
+        You\'re almost done:\n
+        1. Drag the slider on the webpage until you can\'t hear the tone.\n
+        2. Press \'pause\' on the button below to finally check your age.
+    </string>
+    <string name="status_age">You are more than %1$s years old.</string>
+    <string name="status_perm_needed_mic">Please grant this app permission to use the mic.</string>
+</resources>
